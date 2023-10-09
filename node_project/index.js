@@ -1,1 +1,1 @@
-clear
+console.log("hello");

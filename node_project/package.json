@@ -1,0 +1,23 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "description": "this is node js journey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royajex12/node_js_beginner.git#ajex"
+  },
+  "keywords": [
+    "nede",
+    "js"
+  ],
+  "author": "Ajex Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/royajex12/node_js_beginner/issues"
+  },
+  "homepage": "https://github.com/royajex12/node_js_beginner/tree/ajex#readme"
+}
